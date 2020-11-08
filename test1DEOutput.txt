@@ -1,0 +1,9 @@
+class x
+{
+	int foo()
+	{
+		return 1.0;
+	}
+}
+Return statement is of different type compared to the method type: return 1.0;
+
